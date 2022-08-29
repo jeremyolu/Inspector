@@ -12,7 +12,7 @@ Open Inspector.sln and run application within your desired IDE.
 
 # Implementation
 
-The terminal app has been implemented in a way that is simple and easy to use. A list of predifined social network links are used to search for accounts based on a username. In order to determine for sure if a account exists with that username, a GET request is made to the various social network links. If a 200 status code is returned then the account is returned in the results.
+The terminal app has been implemented in a way that is simple and easy to use. A list of predefined social network links are used to search for accounts based on a username. In order to determine for sure if a account exists with that username, a GET request is made to the various social network links. If a 200 status code is returned then the account is returned in the results.
 
 # Contribute
 
