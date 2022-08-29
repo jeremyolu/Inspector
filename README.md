@@ -8,7 +8,7 @@ $ git clone https://github.com/jeremyolu/Inspector.git
 
 Open Inspector.sln and run application within your desired IDE.
 
-![image](https://user-images.githubusercontent.com/32248981/187233050-257430cd-9d30-4c5b-90cc-6e7692f82c7c.png)
+![image](https://user-images.githubusercontent.com/32248981/187233689-fbf07b39-244e-4d67-884f-45c471dd7f2d.png)
 
 # Implementation
 
