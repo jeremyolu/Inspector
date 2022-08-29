@@ -12,6 +12,8 @@ namespace Inspector
         public async Task Run()
         {
             Console.WriteLine("Social Inspector v1.0: ");
+            Console.WriteLine();
+            Console.WriteLine("Developed by Jeremy Olu: ");
             Console.WriteLine("----------------------");
             Console.WriteLine();
 
@@ -43,7 +45,7 @@ namespace Inspector
             return new List<SocialNetwork>
             {
                 new SocialNetwork { Name = "Twitter", Url = $"https://twitter.com/{username}" },
-                new SocialNetwork { Name = "Instagram", Url = $"https://twitter.com/{username}" },
+                new SocialNetwork { Name = "Instagram", Url = $"https://instagram.com/{username}" },
                 new SocialNetwork { Name = "Tiktok", Url = $"https://www.tiktok.com/@{username}" },
                 new SocialNetwork { Name = "Pinterest", Url = $"https://www.pinterest.com/{username}" },
                 new SocialNetwork { Name = "Snapchat", Url = $"https://www.snapchat.com/add/{username}" },
