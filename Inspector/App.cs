@@ -48,6 +48,7 @@ namespace Inspector
                 new SocialNetwork { Name = "Instagram", Url = $"https://instagram.com/{username}" },
                 new SocialNetwork { Name = "Tiktok", Url = $"https://www.tiktok.com/@{username}" },
                 new SocialNetwork { Name = "Pinterest", Url = $"https://www.pinterest.com/{username}" },
+                new SocialNetwork { Name = "Medium", Url = $"https://medium.com/feed/@{username}" },
                 new SocialNetwork { Name = "Snapchat", Url = $"https://www.snapchat.com/add/{username}" },
                 new SocialNetwork { Name = "Clubhouse", Url = $"https://www.clubhouse.com/@{username}" },
                 new SocialNetwork { Name = "Youtube", Url = $"https://www.youtube.com/{username}" },
