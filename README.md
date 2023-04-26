@@ -23,4 +23,4 @@ It has been noticed that some social networking sites usually do not return 200 
 Please feel free to make changes to the implementation and submit a pull request if you believe implementation can be added or improved.
 # Disclaimer
 
-This terminal app was developed for development and research purposes only. No unethnical practices should be carried out while using the app. Please be a good citizen to society :)
+This terminal app was developed for development and research purposes only. I do not intend to carry out any unethnical practices. This was soley for the purpose of research. Please do not use this for bad practices.
